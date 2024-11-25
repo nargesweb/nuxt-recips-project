@@ -1,0 +1,13 @@
+<template>
+    <div>
+        <div>
+            image
+        </div>
+        <span>
+            title
+        </span>
+        <span>
+            price
+        </span>
+    </div>
+</template>
